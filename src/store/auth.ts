@@ -13,3 +13,5 @@ export const useAuthStore = create<AuthStore>(() => ({
     password: "string",
   },
 }));
+
+export async function signUp() {}
