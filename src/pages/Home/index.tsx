@@ -1,4 +1,4 @@
-import { DeviceSection } from "@/sections/Dashboard";
+import { DeviceSection } from "@/sections";
 
 const index = () => {
   return (
